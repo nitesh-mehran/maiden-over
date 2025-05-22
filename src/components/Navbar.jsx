@@ -49,14 +49,14 @@ const Navbar = () => {
           data-aos-delay="50"
         >
           <img
-            src="/mob-cafe.png"
+            src="/Logo.jpeg"
             alt="Logo"
-            className={`h-10 w-auto sm:h-12 md:h-14 lg:h-16 transition-all duration-300 ${
+            className={`h-16 w-auto sm:h-16 md:h-20 lg:h-16 transition-all duration-300 ${
               scrolled ? "md:h-12 lg:h-14" : ""
             }`}
           />
           <span className="font-bold text-lg sm:text-xl md:text-2xl text-gray-800 select-none">
-            Maiden Over&nbsp;-&nbsp;Bistro
+            Kefiko-Tea&Coffee
           </span>
         </div>
 
@@ -91,7 +91,7 @@ const Navbar = () => {
         {/* Desktop Icons */}
         <div className="hidden md:flex items-center space-x-4">
           <a
-            href="https://www.instagram.com/maidenoverbistro"
+            href="https://www.instagram.com/kefikojaipur"
             target="_blank"
             rel="noopener noreferrer"
             className="text-xl text-pink-500 hover:text-pink-600 hover:shadow-[0_0_10px_#ec4899] transition-transform transform hover:scale-110 duration-200 rounded-full"
@@ -102,7 +102,7 @@ const Navbar = () => {
           </a>
 
           <a
-            href="https://www.facebook.com/maidenoverbistro"
+            href="https://www.facebook.com/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-2xl text-blue-600 hover:text-blue-700 hover:shadow-[0_0_12px_#3b82f6] transition-transform transform hover:scale-110 duration-200 rounded"
@@ -113,7 +113,7 @@ const Navbar = () => {
           </a>
 
           <a
-            href="https://wa.me/919829169137"
+            href="https://wa.me/918014942875"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center px-4 py-2 border border-green-500 text-green-600 text-sm rounded-full transition hover:bg-green-50 hover:shadow-[0_0_10px_#22c55e]"
@@ -162,7 +162,7 @@ const Navbar = () => {
             </li>
             <li data-aos="fade-down" data-aos-delay="250">
               <a
-                href="https://www.instagram.com/maidenoverbistro"
+                href="https://www.instagram.com/kefikojaipur"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center space-x-2 text-pink-500 hover:text-pink-600 hover:shadow-[0_0_10px_#ec4899] transition-transform transform hover:scale-110 duration-200 rounded-full px-2 py-1"
@@ -172,7 +172,7 @@ const Navbar = () => {
             </li>
             <li data-aos="fade-down" data-aos-delay="300">
               <a
-                href="https://www.facebook.com/maidenoverbistro"
+                href="https://www.facebook.com/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center space-x-2 text-blue-600 hover:text-blue-700 hover:shadow-[0_0_12px_#3b82f6] transition-transform transform hover:scale-110 duration-200 rounded px-2 py-1"
@@ -182,7 +182,7 @@ const Navbar = () => {
             </li>
             <li data-aos="fade-down" data-aos-delay="350">
               <a
-                href="https://wa.me/919829169137"
+                href="https://wa.me/918104942875"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center px-2 py-2 text-green-600 rounded-md hover:bg-green-50 hover:shadow-[0_0_10px_#22c55e]"

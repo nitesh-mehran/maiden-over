@@ -3,14 +3,14 @@ import AOS from "aos";
 import "aos/dist/aos.css";
 
 const menuItems = [
-  { title: "Coffee & Beverages", image: "/menu1.jpg" },
-  { title: "Great Coffee & Good Vibes", image: "/menu2.jpg" },
+  { title: "Coffee & Beverages", image: "/menu3.jpg" },
+  { title: "Great Coffee & Good Vibes", image: "/menu3.jpg" },
   { title: "Burgers & Sandwich", image: "/menu3.jpg" },
-  { title: "Pizza & Pasta", image: "/menu4.jpg" },
-  { title: "Platters & Starters", image: "/menu5.jpg" },
-  { title: "Oriental Asian", image: "/menu6.jpg" },
-  { title: "Thank you for Visiting our Cafe", image: "/menu7.jpg" },
-  { title: "Mocktails & Shakes", image: "/menu8.jpg" },
+  { title: "Pizza & Pasta", image: "/menu3.jpg" },
+  { title: "Platters & Starters", image: "/menu3.jpg" },
+  { title: "Oriental Asian", image: "/menu3.jpg" },
+  { title: "Thank you for Visiting our Cafe", image: "/menu3.jpg" },
+  { title: "Mocktails & Shakes", image: "/menu3.jpg" },
 ];
 
 const CafeMenu = () => {

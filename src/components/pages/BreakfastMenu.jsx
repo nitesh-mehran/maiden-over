@@ -106,13 +106,13 @@ const BreakfastMenu = () => {
           </p>
 
           <p className="text-sm sm:text-base font-medium">
-            📍 Gali No. 4, Raja Park, Jaipur, Rajasthan 302004
+            📍 Malviya Nagar, Jaipur, Rajasthan 302004
             <br />
-            📞 Enquiries: +91-9829169137
+            📞 Enquiries: +91-8104942875
           </p>
 
           <a
-            href="https://www.google.com/maps/place/Maiden+Over+Bistro/@26.8932905,75.8269511,586m/data=!3m2!1e3!4b1!4m6!3m5!1s0x396db7cc4a0f9983:0x61656d96fd2e4a23!8m2!3d26.8932857!4d75.829526!16s%2Fg%2F11y7cvp6lt?entry=ttu"
+            href="https://www.google.com/maps?q=Kefiko+-+Tea+and+Coffee,+D-654-55,+Park+Ave+Rd,+Siddharth+Nagar,+Sector+9,+Malviya+Nagar,+Jaipur,+Rajasthan+302017&ftid=0x396db77fdd9bbc0d:0x1aece1e73a70cdc3&entry=gps&lucs=,94242541,94224825,94227247,94227248,47071704,47069508,94218641,94203019,47084304,94208458,94208447&g_ep=CAISEjI1LjA2LjEuNzIyNzcxMDg2MBgAIJ6dCipjLDk0MjQyNTQxLDk0MjI0ODI1LDk0MjI3MjQ3LDk0MjI3MjQ4LDQ3MDcxNzA0LDQ3MDY5NTA4LDk0MjE4NjQxLDk0MjAzMDE5LDQ3MDg0MzA0LDk0MjA4NDU4LDk0MjA4NDQ3QgJJTg%3D%3D&g_st=com.google.maps.preview.copy"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 bg-yellow-400 hover:bg-yellow-500 text-black font-semibold py-2 px-5 rounded-full shadow-lg transition-transform transform hover:scale-105"
