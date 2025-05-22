@@ -92,7 +92,7 @@ const BreakfastMenu = () => {
 
       <div className="relative z-10 flex items-center justify-start h-96 sm:h-96 md:h-[90vh] lg:h-[80vh] px-4 sm:px-10 bg-black/50">
         <div
-          className="max-w-4xl text-white space-y-5 ml-24"
+          className="max-w-4xl text-white space-y-5 md:ml-24"
           data-aos="fade-right"
           data-aos-delay={200}
         >
